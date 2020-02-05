@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://jmbeach.github.io/apps/autoplate.ipa</string>
+		<string>https://jmbeach.github.io/apps/Autoplate.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://jmbeach.github.io/apps/autoplate.57x57.png</string>
+		<string>https://jmbeach.github.io/apps/Autoplate.52x52.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://jmbeach.github.io/apps/autoplate.512x512.png</string>
+		<string>https://jmbeach.github.io/apps/Autoplate.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
