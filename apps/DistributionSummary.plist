@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Autoplate.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6630FAEA029623F90A3A8CF1B743B74AA3489CCF</string>
+				<key>dateExpires</key>
+				<string>1/13/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8Z85R43T7C.com.chisoft.Autoplate</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8Z85R43T7C</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8Z85R43T7C.com.chisoft.Autoplate</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Autoplate.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1571e4ce-94fc-45f4-9931-35e7acf8a046</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.chisoft.Autoplate</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8Z85R43T7C</string>
+				<key>name</key>
+				<string>Jared Beach</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
